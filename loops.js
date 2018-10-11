@@ -16,7 +16,7 @@ function whileLoop(number){
   }
   return "done"
 }
-/*
+
 function doWhileLoop(array){
   var i = 0;
 
@@ -25,6 +25,6 @@ function doWhileLoop(array){
     }
   do {
     return array
-  } while array.length > 0 && incrementVariable()
+  } while array.length() > 0 && incrementVariable()
 }
-*/
+
