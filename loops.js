@@ -24,8 +24,9 @@ function doWhileLoop(array){
       var i = 0
       i = i + 1
     }
-    
+
   do {
     return array
+    incrementVariable()
   } while (array.length > 0 && incrementVariable())
 }
