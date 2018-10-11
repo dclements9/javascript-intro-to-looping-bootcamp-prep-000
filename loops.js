@@ -28,6 +28,6 @@ function doWhileLoop(array){
   do {
     array.pop()
     return array
-    //incrementVariable()
+    incrementVariable()
   } while (array.length > 0 && incrementVariable())
 }
